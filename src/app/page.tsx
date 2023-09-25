@@ -30,10 +30,10 @@ export default function Home() {
       }
     }, 1000);
   })
-
-  return (
-    <p className="timer">
-      {datetime}
-    </p>
-  )
+  
+  // return (
+  //   <p className="timer">
+  //     {datetime}
+  //   </p>
+  // )
 }
